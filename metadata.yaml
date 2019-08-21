@@ -1,10 +1,13 @@
 _repo: The-legend-of-the-blemished-king-and-other-poems_60108
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Victory, Louis H.
     gutenberg_agent_id: '50794'
     url: http://www.gutenberg.org/2009/agents/50794
+covers:
+- cover_type: archival
+  image_path: 60108-h/images/cover.jpg
 creator:
   author:
     agent_name: Cousins, James Henry
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39260
     wikipedia: http://en.wikipedia.org/wiki/James_Cousins
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60108#The-legend-of-the-blemished-king-and-other-poems
 gutenberg_issued: '2019-08-16'
 gutenberg_type: Text
 identifiers:
